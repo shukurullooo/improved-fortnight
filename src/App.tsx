@@ -42,7 +42,6 @@ const App = () => {
 
   return (
     <div>
-      <h2>GitLab</h2>
 
       <form onSubmit={(e) => e.preventDefault()}>
       <input
